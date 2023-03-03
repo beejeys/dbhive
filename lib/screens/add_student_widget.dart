@@ -39,7 +39,7 @@ class AddStudent extends StatelessWidget {
             onPressed: () {
               onAddStudentButtonClicked();
             }, 
-            label: const Text('Add Student'),
+            label: const Text('Add New Student'),
             icon: const Icon(Icons.add)
           )
         ],
